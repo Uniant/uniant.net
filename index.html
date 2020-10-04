@@ -1,0 +1,273 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Ablaze</title>
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="stylesheet" type="text/css" href="/layout.css" />
+    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.0.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/material/slide/slide.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.2/css/swiper.min.css">
+</head>
+<body>
+    <header>
+        <div id="ht_top">
+            <div class="center">
+                <div id="ht_logo" class="content">
+                    <a href="index.html">
+                        <img src="/material/ablaze-logo-w.svg" />
+                    </a>
+                </div>
+
+                <div id="ht_menu" class="content">
+                    <nav>
+                        <ul>
+                            <li id="mm_product-btn">
+                                <a href="/jp/products/"><i class="fas fa-list"></i>製品</a>
+                            </li>
+                            <li>
+                                <a href="/jp/news/"><i class="fas fa-bell"></i>ニュース</a>
+                            </li>
+                            <li>
+                                <a href="/jp/blog/"><i class="fas fa-pen"></i>ブログ</a>
+                            </li>
+                            <li>
+                                <a href="/jp/support/"><i class="fas fa-question-circle"></i>サポート</a>
+                            </li>
+                            <li id="mm_open" class="yum" style=" background-color: rgba( 4, 100, 204, 0.75);">
+                                <img src="/material/menu.svg" id="menu_btn_img" />
+                                <span>メニュー</span>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <div id="mm_menu">
+            <nav class="mm_content">
+                <ul>
+                    <li id="mm_close-btn-no_eftct" class="mm_item">
+                        <a href="" id="mm_close-btn">
+                            <div id="mm_close-btn-wrapper"><i class="fas fa-arrow-left" style="margin-right:10px"></i>閉じる</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/jp/" style="margin-left: -5px">
+                            <img src="/material/ablaze-icon.svg" style="width:15px;height:15px;" />
+                            <span style="margin-left: 10px">Ablazeトップ</span>
+                        </a>
+                    </li>
+                    <li id="mm_product-btn2">
+                        <i class="fas fa-chevron-right" style="margin-right: 10px;font-size:8px;position:relative;top:-2px"></i>製品
+                    </li>
+                    <li id="mm_product2">
+                        <div class="product_box">
+                            <a href="/jp/products/nekoLinux/">
+                                <img src="/material/product/nekoLinux/nekolinux-icon.png" style="width:50px;height:50px" />
+                                <span>nekoLinux</span>
+                            </a>
+                        </div>
+                        <div class="product_box">
+                            <a href="/jp/products/nelolinux/">
+                                <img src="/material/product/neloLinux/nelolinux-icon.png" style="width:50px;height:50px" />
+                                <span>neloLinux</span>
+                            </a>
+                        </div>
+                        <div class="product_box">
+                            <a href="/jp/products/cms/">
+                                <img src="/material/making.svg" style="width:50px;height:50px;" />
+                                <span>CMS</span>
+                            </a>
+                        </div>
+                        <div class="product_box">
+                            <a href="/jp/products/">
+                                <img src="/material/menu.svg" style="width:50px;height:50px" />
+                                <span><br>すべて見る</span>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/jp/news/">
+                            <i class="fas fa-bell" style="margin-right:10px"></i>
+                            <span>ニュース</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/jp/blog/">
+                            <i class="fas fa-pen" style="margin-right:10px"></i>
+                            <span>ブログ</span>
+                        </a>
+                    </li>
+                    <li id="mm_support-btn">
+                        <i class="fas fa-chevron-right" style="margin-right: 10px;font-size:8px;position:relative;top:-2px"></i>サポート
+                    </li>
+                    <li id="mm_support">
+                        <ul>
+                            <li>
+                                <a href="/jp/support/contact/"><i class="fas fa-question-circle" style="margin-right: 10px"></i>問い合わせ</a>
+                            </li>
+                            <li>
+                                <a href="/jp/support/manual/"><i class="fas fa-file-alt" style="margin-right: 10px"></i>マニュアル</a>
+                            </li>
+                            <li>
+                                <a href="/jp/support/form/"><i class="fas fa-comments" style="margin-right: 10px"></i>フォーラム
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li id="mm_about-btn">
+                        <i class="fas fa-chevron-right" style="margin-right: 10px;font-size:8px;position:relative;top:-2px"></i>私たちについて
+                    </li>
+                    <li id="mm_about">
+                        <ul>
+                            <li>
+                                <a href="/jp/about/we/"><i class="fas fa-ellipsis-h" style="margin-right: 10px"></i>この団体について
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/jp/about/sns/"><i class="fas fa-share-alt" style="margin-right: 10px"></i>SNS</a>
+                            </li>
+                            <li>
+                                <a href="/jp/about/join/"><i class="fas fa-user-plus" style="margin-right: 10px"></i>参加する</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+            <div id="mm_close"></div>
+        </div>
+    </header>
+    <div style="height: 32px; width: 100%">よく見つけましたね！！</div>
+    <article>
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <img src="../material/slide/Ablaze.png" style="width: 100%; height: auto" />
+                    <div class="slide-hello">
+                        <h1>Hello world</h1>
+                        <p>
+                            はじめまして、Ablaze代表の#NEKOと申します。
+                            このチームは、様々なソフトウェアやサービスを提供...
+                        </p>
+                        <a href="column/team/hello/">続きを見る<i class="fas fa-chevron-right" style="margin-left: 10px"></i></a>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <img src="../material/slide/nekoLinux.png" style="width: 100%; height: auto" />
+                    <div class="slide-neko">
+                        <img src="../material/slide/nekolinux-logo.png" />
+                        <p>あなたと共に成長するLinux</p>
+                        <a href="products/nekoLinux/">試す<i class="fas fa-chevron-right" style="margin-left: 10px"></i></a>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <img src="../material/slide/neloLinux.png" style="width: 100%; height: auto" />
+                    <div class="slide-nelo">
+                        <img src="../material/slide/nelolinux-logo.png" />
+                        <p>スリム・スマートをいつまでも</p>
+                        <a>試す<i class="fas fa-chevron-right" style="margin-left: 10px"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-pagination"></div>
+        </div>
+        <div class="center wf-roundedmplus1c">
+            <h1>製品 - products</h1>
+            <div class="product">
+                <div class="product_item" id="product_neko">
+                    <a>
+                        <img src="/material/product/nekolinux/nekolinux-icon.png">
+                        <span>nekoLinux</span>
+                    </a>
+                </div>
+                <div class="product_item">a</div>
+                <div class="product_item">a</div>
+                <div class="product_item">a</div>
+            </div>
+        </div>
+    </article>
+    <footer class="float-end">フッター</footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.2/js/swiper.min.js"></script>
+    <script>
+        var swiper = new Swiper('.swiper-container', {
+            pagination: {
+                el: '.swiper-pagination',
+                type: 'progressbar',
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+            autoplay: {
+                delay: 3500,
+                disableOnInteraction: false,
+            },
+        });
+    </script>
+    <script>
+        $(function () {
+
+            const btn = $('#mm_open');
+            const win = $("#mm_close");
+            const nav = $("nav.mm_content");
+
+            function toggleMenu() {
+                if (btn.hasClass("open")) {
+                    closeMenu();
+                } else {
+                    openMenu();
+                }
+            }
+
+            function openMenu() {
+                btn.addClass("open");
+                execMenu(0);
+                win.css('left', '0px');
+                win.css('top', '0px');
+                win.css('height', '100%');
+                win.css('width', '100%');
+                win.fadeIn();
+            }
+
+            function closeMenu() {
+                btn.removeClass("open");
+                execMenu(-400);
+                win.fadeOut();
+            }
+
+            function execMenu(pos) {
+                nav.stop().animate({
+                    right: pos
+                }, 200);
+            }
+            btn.on("click", toggleMenu);
+            win.on("click", closeMenu);
+
+        });
+    </script>
+    <script>
+        $(function () {
+            $("#mm_product-btn2").click(function () {
+                $("#mm_product2").slideToggle();
+            });
+        });
+    </script>
+    <script>
+        $(function () {
+            $("#mm_support-btn").click(function () {
+                $("#mm_support").slideToggle();
+            });
+        });
+    </script>
+    <script>
+        $(function () {
+            $("#mm_about-btn").click(function () {
+                $("#mm_about").slideToggle();
+            });
+        });
+    </script>
+</body>
+</html>
