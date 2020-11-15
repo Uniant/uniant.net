@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+a {
+  color: #000000;
+}
+.under:hover {
+  border-bottom: solid 2px;
+}
+.header {
+  width: 100%;
+  height: 50px;
+  display: inline-block;
+  clear: both;
+  position: fixed;
+  z-index: 2;
+  background-color: #ffffff;
+  top: 0;
+  box-shadow: 0px 0px 10px #00000050;
+}
+.headerimg {
+  margin: 7px 7px 0 5%;
+  height: 30px;
+  float: left;
+}
+header nav ul li {
+  margin-left: 30px;
+  display: inline-block;
+  position: relative;
+  top: 15px;
+}
+.content {
+  margin: 40px 5% 0 5%;
+}
+.c-container {
+  position: relative;
+  margin-left: 5%;
+  margin-right: 5%;
+  max-width: 100%;
+  padding: 0 15px;
+}
+.swiper-container {
+  height: 400px;
+}
+.swiper-slide {
+  position: relative;
+}
+.swiper-slide span, .swiper-slide a {
+  position: absolute;
+  top: 75px;
+  left: 5%;
+  text-shadow: 0px 0px 10px #000000;
+}
+.project {
+  margin-top: 50px;
+}
+.projecttexts {
+  display: flex;
+  justify-content: space-between;
+}
+.unp img {
+  width: 200px;
+}
+.disturbes img {
+  width: 200px;
+}
+.projecttext {
+  font-size: 20px;
+}
+.latest {
+  margin-top: 50px;
+}
+.title {
+  font-size: 50px;
+  letter-spacing: 15px;
+}
+.titleunder {
+  font-size: 20px;
+  margin-left: 30px;
+}
+.news {
+  position: relative;
+  overflow: hidden;
+}
+.news img {
+  width: auto;
+  height: 500px;
+  z-index: -2;
+}
+.textonimage {
+  position: absolute;
+  top: 125px;
+  left: 5%;
+}
+/* .community {
+  margin-top: 50px;
+}
+.twitter img, .youtube img, .github img, .discord img {
+  width: 20%;
+  height: auto;
+  margin-right: 6.33%;
+  float: left;
+}
+.discord img {
+  margin-right: 0;
+} */
+.alertie {
+  width: 100%;
+  display: none;
+}
+.ieunder {
+  background-color: #ffffff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.ieunder span {
+  margin-left: 50px;
+}
+.ietitle {
+  font-size: 20px;
+}
+.ieclose {
+  padding: 5px 10px;
+  border: solid 1px #888888;
+  float: right;
+  margin: -20px 50px 10px 0px;
+}
+.footer {
+  margin-top: 50px;
+  background-color: #444444;
+  color: #ffffff;
+  text-shadow: 0px 0px 5px #ffffff;
+  justify-content: space-between;
+}
+.footer img {
+  height: 50px;
+}
+.footercontent {
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 50px;
+}
+.footercontentmenu {
+  display: flex;
+  justify-content: space-between;
+}
+.footermenu ul, .footermenu li {
+  margin-left: 15px;
+  list-style: none;
+}
+.footermenu1, .footermenu2, .footermenu3 {
+  margin-left: 25px;
+}
+.footermenu {
+  display: flex;
+  float: right;
+  font-size: 15px;
+}
+.lastmenu {
+  margin-top: 90px;
+  padding-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.open {
+  display: block;
+}
