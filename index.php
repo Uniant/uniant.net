@@ -17,26 +17,7 @@
   </head>
   <body>
     <div class="header">
-      <header>
-        <a href="/"><img src="uniant.webp" class="headerimg" alt="Uniant"></a>
-        <div id="wrapper">
-          <p class="hbutton">
-            <span></span>
-            <span></span>
-            <span></span>
-          </p>
-          <nav>
-            <ul class="headermenu">
-              <div>
-              <li><a href="" class="under">プロジェクト</a></li>
-              <li><a href="" class="under">ニュース</a></li>
-              <li><a href="" class="under">ブログ</a></li>
-              <li><a href="" class="under">お問い合わせ</a></li>
-              </div>
-            </ul>
-          </nav>
-        </div>
-      </header>
+      <?php include('header.php') ?>
     </div>
     <div class="content">
       <div class="sample01">
@@ -98,54 +79,7 @@
       </div>
     </div>
     <div class="footer">
-      <footer>
-        <div class="footercontent">
-          <div class="footercontentmenu">
-            <div class="footerlogo">
-            <a href="/"><img src="uniantwhite.png"></a><br>
-            <span style="font-size:20px;"><a href="mailto:contact@uniant.net" style="color:#ffffff;">contact@uniant.net</a></span>
-            </div>
-            <div class="footermenu">
-              <div class="footermenu1">
-                <ul>
-                  <span>プロジェクト</span><br>
-                  <li>Uniant Necessary Protection</li>
-                  <li>Disturbes 製品群</li>
-                  <br>
-                  <br>
-                </ul>
-              </div>
-              <div class="footermenu2">
-                <ul>
-                  <span>公式アカウント</span><br>
-                  <li>Twitter</li>
-                  <li>YouTube</li>
-                  <li>GitHub</li>
-                  <li>Discord</li>
-                </ul>
-              </div>
-              <div class="footermenu3">
-                <ul>
-                  <span>コミュニティ</span>
-                  <li>参加する</li>
-                  <li>お問い合わせ</li>
-                  <br>
-                  <br>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="lastmenu">
-            <div class="lastmenuleft">
-              <span>プライバシーポリシー</span>
-              <span style="margin-left:30px;">Uniant ソフトウェアライセンス契約</span>
-            </div>
-            <div class="lastmenuright">
-              <span>&copy; 2020 Uniant</span>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <?php include('footer.php') ?>
     </div>
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <script src="script.js"></script>
