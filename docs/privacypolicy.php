@@ -10,7 +10,7 @@
         <meta property="og:title" content="プライバシーポリシー - Uniant">
         <meta property="og:description" content="Uniant のプライバシーポリシーをご覧になれます。">
         <meta property="og:image" content="uniantlogo.png">
-        <link href="style.css" rel="stylesheet" type="text/css">
+        <link href="/style.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="../decoration.css">
         <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.0.js"></script>
     </head>
