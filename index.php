@@ -71,13 +71,6 @@
                 </div>
             </div>
         </div>
-        <div class="alertie">
-            <div class="ieunder">
-                <span class="ietitle">本サイトは Internet Explorer に対応しておりません。</span><br>
-                <span>Microsoft Edge, Google Chrome 等最新のブラウザーをご利用ください。</span>
-                <a class="ieclose">閉じる</a>
-            </div>
-        </div>
         <div class="footer">
             <?php include('footer.php') ?>
         </div>
