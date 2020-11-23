@@ -22,15 +22,14 @@
     </div>
         <div class="content">
             <div class="membersname">
-                <span class="name">古地 明宏</span><br>
-                <span class="nameeng">Furuchi Akihiro</span><br><br>
-                <span class="mail">furuchi011108@uniant.net</span>
+                <span class="name">赤塚 弘和</span><br>
+                <span class="nameeng">Akatuska Hirokazu</span><br><br>
+                <span class="mail">akatsuka010426@uniant.net</span>
             </div>
             <div class="about">
                 <div class="position">
                     <span class="title2">役　職</span><br>
                     <div class="positioncontent">
-                        <span class="chairman">会　長</span>
                         <span class="exective">幹　部</span>
                         <span class="development">開発部</span>
                         <span class="publicrelations">広報部</span>
@@ -41,7 +40,8 @@
                 <div class="sns">
                     <span class="title2">ソーシャルアカウント</span><br>
                     <div class="snscontent">
-                    <span class="twitter"><img src="twitter.png" alt="Twitter:" class="socialicon">@Komeiji_Fran</span>
+                    <span class="twitter"><img src="twitter.png" alt="Twitter:" class="socialicon">@neko0426_game</span>
+                    <span class="github"><img src="github.png" alt="GitHub:" class="socialicon">@akatsuka0426</span>
                     </div>
                 </div>
             </div>

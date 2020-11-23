@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #cccccc;
+}
+.membersname {
+    background-image: url(background.png);
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.name {
+    font-size: 50px;
+    font-family: '游明朝', serif;
+    padding-top: 150px;
+    padding-left: 10%;
+}
+.nameeng {
+    font-size: 20px;
+    font-family: '游明朝', serif;
+    padding-left: 10%;
+}
+.mail {
+    font-size: 25px;
+    font-family: '游明朝', serif;
+    margin-top: 20px;
+    padding-left: 10%;
+}
+.about {
+    position: relative;
+    padding-top: 30px;
+}
+.title2 {
+    font-size: 25px;
+}
+.position, .sns {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.positioncontent, .snscontent {
+    margin-top: 15px;
+    display: inline-block;
+}
+.positioncontent span, .snscontent span {
+    padding: 5px 10px;
+    font-size: 18px;
+}
+.chairman {
+    background-color: #2ecc7c;
+    margin-top: 20px;
+}
+.exective {
+    background-color: #f1c40f;
+}
+.development, .publicrelations, .planning, .accouting {
+    background-color: #979c9f;
+}
+.sns {
+    margin-top: 30px;
+}
+.socialicon {
+    height: 20px;
+}
+.twitter {
+    background-color: #1da1f2
+}
+.github {
+    background-color: #24292e;
+    color: #ffffff;
+}
