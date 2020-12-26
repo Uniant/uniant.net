@@ -119,9 +119,11 @@ header nav ul li {
 .footer {
   margin-top: 50px;
   background-color: #444444;
-  color: #ffffff;
   text-shadow: 0px 0px 5px #ffffff;
   justify-content: space-between;
+}
+footer *{
+  color: #ffffff;
 }
 .footer img {
   height: 50px;
