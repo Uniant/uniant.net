@@ -2,7 +2,7 @@
     <div class="footercontent">
         <div class="footercontentmenu">
             <div class="footerlogo">
-                <a href="/"><img src="uniantwhite.png"></a><br>
+                <a href="/"><img src="/uniantwhite.png"></a><br>
                 <span style="font-size:20px;"><a href="mailto:contact@uniant.net" style="color:#ffffff;">contact@uniant.net</a></span>
             </div>
             <div class="footermenu">
