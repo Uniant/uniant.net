@@ -64,12 +64,12 @@
                 <div class="title1">
                     <span class="title1left">ニュース</span><span class="title1right">|  News</span>
                 </div>
-                <div class="news"><img src="news.png">
-                  <span class="textonimage" style="font-size:30px;">Latest News</span>
-                  <span class="textonimage" style="top:175px;">最新のニュースとグループの情報</span>
-                  <a href="./news/" class="textonimage animebutton" style="top:250px;">もっと見る &gt;</a>
-                </div>
             </div>
+        </div>
+        <div class="news"><img src="news.png">
+            <span class="textonimage" style="font-size:30px;">Latest News</span>
+            <span class="textonimage" style="top:175px;">最新のニュースとグループの情報</span>
+            <a href="./news/" class="textonimage animebutton" style="top:250px;">もっと見る &gt;</a>
         </div>
         <div class="footer">
             <?php include('footer.php') ?>
