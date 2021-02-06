@@ -6,7 +6,7 @@
         <title>Uniant - Official Home Page</title>
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@Uniant">
-        <meta property="og:url" content="https://uniant-new-homepage.akatsuka0426.repl.co">
+        <meta property="og:url" content="https://uniant.net/">
         <meta property="og:title" content="Uniant - Official Home Page">
         <meta property="og:description" content="Uniant 公式ホームページです。 Uniant の製品情報および最新の情報をご覧になれます。">
         <meta property="og:image" content="uniantlogo.png">
@@ -64,12 +64,12 @@
                 <div class="title1">
                     <span class="title1left">ニュース</span><span class="title1right">|  News</span>
                 </div>
-                <div class="news"><img src="news.png">
-                  <span class="textonimage" style="font-size:30px;">Latest News</span>
-                  <span class="textonimage" style="top:175px;">最新のニュースとグループの情報</span>
-                  <a href="./news/" class="textonimage animebutton" style="top:250px;">もっと見る &gt;</a>
-                </div>
             </div>
+        </div>
+        <div class="news"><img src="news.png">
+            <span class="textonimage" style="font-size:30px;">Latest News</span>
+            <span class="textonimage" style="top:175px;">最新のニュースとグループの情報</span>
+            <a href="./news/" class="textonimage animebutton" style="top:250px;">もっと見る &gt;</a>
         </div>
         <div class="footer">
             <?php include('footer.php') ?>

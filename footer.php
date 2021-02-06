@@ -3,12 +3,12 @@
         <div class="footercontentmenu">
             <div class="footerlogo">
                 <a href="/"><img src="/uniantwhite.png"></a><br>
-                <span style="font-size:20px;"><a href="mailto:contact@uniant.net" style="color:#ffffff;">contact@uniant.net</a></span>
+                <span class="footermailadress"><a href="mailto:contact@uniant.net">contact@uniant.net</a></span>
             </div>
             <div class="footermenu">
                 <div class="footermenu1">
                     <ul>
-                        <span>プロジェクト</span><br>
+                        <span class="footermenutitle">プロジェクト</span><br>
                         <li><a href="/projects/unp/">Uniant Necessary Protection</a></li>
                         <li><a href="/projects/disturbes/">Disturbes 製品群</a></li>
                         <br>
@@ -17,7 +17,7 @@
                 </div>
                 <div class="footermenu2">
                     <ul>
-                        <span>公式アカウント</span><br>
+                        <span class="footermenutitle">公式アカウント</span><br>
                         <li><a href="https://twitter.com/Trownsoft">Twitter</a></li>
                         <li><a href="https://www.youtube.com/channel/UCwE_EXt4p01-nsbKHH89F1g">YouTube</a></li>
                         <li><a href="https://github.com/Trownsoft">GitHub</a></li>
@@ -26,7 +26,7 @@
                 </div>
                 <div class="footermenu3">
                     <ul>
-                        <span>コミュニティ</span>
+                        <span class="footermenutitle">コミュニティ</span>
                         <li><a href="/recruit/">参加する</a></li>
                         <li><a href="/contact/">お問い合わせ</a></li>
                         <br>
