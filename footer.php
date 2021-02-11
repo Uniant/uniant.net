@@ -28,7 +28,7 @@
                     <ul>
                         <span class="footermenutitle">コミュニティ</span>
                         <li><a href="/recruit/">参加する</a></li>
-                        <li><a href="/contact/">お問い合わせ</a></li>
+                        <li><a href="https://support.uniant.net/">お問い合わせ</a></li>
                         <br>
                         <br>
                     </ul>
@@ -41,7 +41,7 @@
                 <span style="margin-left:30px;"><a href="/docs/usla.php">Uniant ソフトウェアライセンス契約</a></span>
             </div>
             <div class="lastmenuright">
-                <span>&copy; 2020 Uniant</span>
+                <span>&copy; 2020 - 2021 Uniant</span>
             </div>
         </div>
     </div>
