@@ -12,6 +12,8 @@
         <meta property="og:image" content="uniantlogo.png">
         <link href="style.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="decoration.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
         <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.0.js"></script>
     </head>
@@ -31,7 +33,7 @@
                         <div class="swiper-slide"><img src="02.png">
                             <span style="font-size:20px;">Trownsoft は Uniant になりました</span>
                             <span style="margin-top:50px;">新しい環境、変わらない信念。</span>
-                            <a href="/" class="animebutton" style="top: 150px;">詳しく &gt;</a>
+                            <a href="https://trownsoft-to-uniant.uniant.net/" class="animebutton" style="top: 150px;">詳しく &gt;</a>
                         </div>
                     </div>
                     <div class="swiper-pagination"></div>
@@ -44,19 +46,24 @@
                     <span class="title1left">プロジェクト</span><span class="title1right">|  Projects</span>
                 </div>
                 <div class="projecttexts">
-                    <div class="unp">
-                        <img src="unp.png">
-                        <p class="projecttext">Uniant Necessary Protection</p>
-                        <span>コンピューターの強力な礎石。</span>
-                        <br>
-                        <a href="#" class="animebutton">今すぐダウンロード ></a>
-                    </div>
                     <div class="disturbes">
                         <img src="disturbes.png">
                         <p class="projecttext">Disturbes 製品群</p>
                         <span>さよなら、迷惑ソフト。</span>
                         <br>
                         <a href="#" class="animebutton">詳細はこちら ></a>
+                    </div>
+                    <div class="support">
+                        <img src="support.png">
+                        <p class="projecttext">Uniant Support</p>
+                        <span>Uniant に関するお問い合わせ</span>
+                        <br>
+                        <a href="#" class="animebutton">今すぐ見る ></a>
+                    </div>
+                    <div class="comingsoon">
+                        <img src="comingsoon1.png">
+                        <p class="projecttext">Coming Soon...</p>
+                        <br>
                     </div>
                 </div>
             </div>

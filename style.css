@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
+  font-family: 'Open Sans', 'Noto Sans JP', sans-serif;
 }
 a {
   color: #000000;
@@ -50,8 +51,41 @@ header nav ul li {
   position: relative;
   top: 15px;
 }
+.headersearch {
+  margin-right: 5%;
+  float: right;
+  margin-top: -15px;
+}
+.searchbox {
+  height: 30px;
+  border: 1px solid #cccccc;
+  appearance: none;
+  box-sizing: border-box;
+  position: relative;
+  border: 1px solid #999999;
+  display: block;
+  padding: 3px 10px;
+  height: 2.3em;
+  width: 260px;
+  overflow: hidden;
+}
+.searchboxclick {
+  cursor: pointer;
+  border: none;
+  background: #3879D9;
+  color: #ffffff;
+  width: 50px;
+  height: 31px;
+  right: 0px;
+  top: -3px;
+  outline : none;
+}
+.searchbox, .searchboxclick {
+  float: left;
+}
 .content {
-  margin: 40px 5% 0 5%;
+  margin: 50px 5% 0 5%;
+  min-height: calc(100vh - 50px - 328px);
 }
 .c-container {
   position: relative;
@@ -79,10 +113,7 @@ header nav ul li {
   display: flex;
   justify-content: space-between;
 }
-.unp img {
-  width: 200px;
-}
-.disturbes img {
+.comingsoon img, .disturbes img, .support img {
   width: 200px;
 }
 .projecttext {
@@ -210,4 +241,32 @@ footer *{
 }
 .open {
   display: block;
+}
+.titlesearchresult {
+  font-size: 30px;
+  margin-top: 60px;
+}
+.rulestitle {
+  font-size: 50px;
+}
+.rulesdate {
+  text-align: right;
+  font-size: 20px;
+}
+.chapter {
+  font-size: 30px;
+  margin-top: 30px;
+}
+.article {
+  font-size: 20px;
+  margin: 5px 0 0 15px;
+}
+.articlemain {
+  margin-left: 25px;
+}
+.ruleslist {
+  margin-left: 50px;
+}
+.ruleslist2 {
+  margin-left: 70px;
 }
