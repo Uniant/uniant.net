@@ -1,16 +1,16 @@
-var mySwiper = new Swiper ('.swiper-container', {
+var mySwiper = new Swiper('.swiper-container', {
     loop: true,
     autoplay: {
-      delay: 5000,
+        delay: 5000,
     },
     pagination: {
-      el: '.swiper-pagination',
+        el: '.swiper-pagination',
     },
     navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
     },
     scrollbar: {
-      el: '.swiper-scrollbar',
+        el: '.swiper-scrollbar',
     },
-  });
+});

@@ -9,8 +9,8 @@
                 <div class="footermenu1">
                     <ul>
                         <span class="footermenutitle">プロジェクト</span><br>
-                        <li><a href="/projects/unp/">Uniant Necessary Protection</a></li>
                         <li><a href="/projects/disturbes/">Disturbes 製品群</a></li>
+                        <br>
                         <br>
                         <br>
                     </ul>
@@ -18,10 +18,10 @@
                 <div class="footermenu2">
                     <ul>
                         <span class="footermenutitle">公式アカウント</span><br>
-                        <li><a href="https://twitter.com/Trownsoft">Twitter</a></li>
-                        <li><a href="https://www.youtube.com/channel/UCwE_EXt4p01-nsbKHH89F1g">YouTube</a></li>
-                        <li><a href="https://github.com/Trownsoft">GitHub</a></li>
-                        <li><a href="https://discord.gg/GYUKdPk">Discord</a></li>
+                        <li><a href="https://twitter.com/Trownsoft" target="_blank">Twitter</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCwE_EXt4p01-nsbKHH89F1g" target="_blank">YouTube</a></li>
+                        <li><a href="https://github.com/Trownsoft" target="_blank">GitHub</a></li>
+                        <li><a href="https://discord.gg/GYUKdPk" target="_blank">Discord</a></li>
                     </ul>
                 </div>
                 <div class="footermenu3">
