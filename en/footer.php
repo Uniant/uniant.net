@@ -37,8 +37,8 @@
         </div>
         <div class="lastmenu">
             <div class="lastmenuleft">
-                <span><a href="./docs/privacypolicy.php">Privacy Policy</a></span>
-                <span style="margin-left:30px;"><a href="./docs/usla.php">Uniant Software License Agreement</a></span>
+                <span><a href="/en/docs/privacypolicy.php">Privacy Policy</a></span>
+                <span style="margin-left:30px;"><a href="/en/docs/usla.php">Uniant Software License Agreement</a></span>
             </div>
             <div class="lastmenuright">
                 <span>&copy; 2020 - 2021 Uniant</span>
