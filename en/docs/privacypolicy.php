@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-    <html>
+    <html lang="en">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
         <title>Privacy Policy - Uniant</title>
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@Uniant">
-        <meta property="og:url" content="https://uniant.net/docs/privacypolicy.php">
+        <meta property="og:url" content="https://uniant.net/en/docs/privacypolicy.php">
         <meta property="og:title" content="Privacy Policy - Uniant">
         <meta property="og:description" content="You can see the Privacy Policy of Uniant.">
         <meta property="og:image" content="uniantlogo.png">
