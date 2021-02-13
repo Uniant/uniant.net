@@ -40,8 +40,8 @@
                     <div class="ruleslist">
                         <span id="1a1-1">- Later versions of this software.</span><br>
                         <span id="1a1-2">- Update programs.</span><br>
-                        <span id="1a1-3">- Additional components</span><br>
-                        <span id="1a1-4">- Support service</span><br>
+                        <span id="1a1-3">- Additional components.</span><br>
+                        <span id="1a1-4">- Support service.</span><br>
                     </div>
                     <span id="1a2">Clause 2 Uniant consents to you to use users the Software provided by Uniant.</span><br>
                     <span id="1a3">Clause 3 The user must not transfer the right to use this software to a third party.</span>
@@ -68,38 +68,38 @@
                         <span id="4a1-1">- Reproduction of this software, manuals, specifications, materials, etc.</span><br>
                         <span id="4a1-2">- Leakage of technical secrets related to this software.</span><br>
                         <span id="4a1-3">- Modification or change of this software.</span><br>
-                        <span id="4a1-4">- Reverse engineering, decompiling or disassembling the software</span><br>
+                        <span id="4a1-4">- Reverse engineering, decompiling or disassembling the software.</span><br>
                     </div>
                     <span id="4a2">Clause 2 If the customer modifies this software in violation of the preceding paragraph, all legal rights such as copyrights and patent rights related to the relevant part shall belong to Uniant.</span><br>
                     <span id="4a3">Clause 3 The user does not exercise the moral rights of the author regarding the use of the modifications, etc. in the preceding paragraph.</span>
                 </div>
                 <div class="article" id="5a">
-                    <span>第 5 条　本ソフトウェアの譲渡及び転貸の禁止</span>
+                    <span>Article 5 Prohibition of transfer and sublease of this software</span>
                 </div>
                 <div class="articlemain">
-                    <span id="5a1">第 1 項　ユーザーは、第三者に対し本ソフトウェアを譲渡、転貸、販売をしてはいけません。</span>
+                    <span id="5a1">Clause 1 The user must not transfer, sublease, or sell this software to a third party.</span>
                 </div>
                 <div class="article" id="6a">
-                    <span>第 6 条　複製</span>
+                    <span>Article 6 Reproduction</span>
                 </div>
                 <div class="articlemain">
-                    <span id="6a1">第 1 項　ユーザーは、本ソフトウェアをバックアップの目的で 1 つのみ複製できます。</span><br>
+                    <span id="6a1">Clause 1 The user may copy only one software for backup purposes.</span><br>
                 </div>
                 <div class="article" id="7a">
-                    <span>第 7 条　権利義務の譲渡禁止</span>
+                    <span>Article 7 Prohibition of transfer of rights and obligations</span>
                 </div>
                 <div class="articlemain">
-                    <span id="7a1">第 1 項　ユーザーは、本ライセンス契約上の権利および義務の全部または一部を第三者に譲渡し、または担保に供してはいけません。</span><br>
+                    <span id="7a1">Clause 1 The user must not assign or pledge all or part of the rights and obligations under this license agreement to a third party.</span><br>
                 </div>
                 <div class="article" id="8a">
-                    <span>第 8 条　本ライセンス契約の有効期限</span>
+                    <span>Article 8 Expiration date of this license agreement</span>
                 </div>
                 <div class="articlemain">
-                    <span id="8a1">第 1 項　本ライセンス契約は、ユーザーが本ソフトウェアを使用しているとき、常に適用されます。</span>
+                    <span id="8a1">Clause 1 This license agreement applies whenever the user is using the software.</span>
                 </div>
                 <br>
                 <div class="rulesdate">
-                    <span>令和 2 年 9 月 13 日　制定<br>Uniant<br>会長　古地明宏</span>
+                    <span>Decided on September 13th, 2020.<br>Uniant<br>Chairman: Akihiro Furuchi.</span>
                 </div>
             </div>
         </div>
