@@ -18,7 +18,7 @@
         </nav>
         <div class="headersearch">
             <form action="/search/">
-                <input class="searchbox" id="search-input" placeholder="search uniant.net" type="text" name="search">
+                <input class="searchbox" id="search-input" placeholder="Search uniant.net" type="text" name="search">
                 <input class="searchboxclick" id="search-buttom" type="submit" value="Search" method="get">
             </form>
         </div>
