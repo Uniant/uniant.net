@@ -2,7 +2,7 @@
     <div class="footercontent">
         <div class="footercontentmenu">
             <div class="footerlogo">
-                <a href="/"><img src="/uniantwhite.png"></a><br>
+                <a href="/"><img src="/uniantwhite.png" class="footerlogoimg" alt="Uniant"></a><br>
                 <span class="footermailadress"><a href="mailto:contact@uniant.net">contact@uniant.net</a></span>
             </div>
             <div class="footermenu">
@@ -18,10 +18,10 @@
                 <div class="footermenu2">
                     <ul>
                         <span class="footermenutitle">公式アカウント</span><br>
-                        <li><a href="https://twitter.com/Trownsoft" target="_blank">Twitter</a></li>
-                        <li><a href="https://www.youtube.com/channel/UCwE_EXt4p01-nsbKHH89F1g" target="_blank">YouTube</a></li>
-                        <li><a href="https://github.com/Trownsoft" target="_blank">GitHub</a></li>
-                        <li><a href="https://discord.gg/GYUKdPk" target="_blank">Discord</a></li>
+                        <li><a href="https://twitter.com/Trownsoft" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCwE_EXt4p01-nsbKHH89F1g" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+                        <li><a href="https://github.com/Trownsoft" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+                        <li><a href="https://discord.gg/GYUKdPk" target="_blank" rel="noopener noreferrer">Discord</a></li>
                     </ul>
                 </div>
                 <div class="footermenu3">
