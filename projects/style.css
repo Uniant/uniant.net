@@ -1,0 +1,23 @@
+.project {
+    height: 300px;
+    position: relative;
+}
+.backimage img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.titleproject {
+    font-size: 30px;
+    text-shadow: 0 0 3px #888888;
+}
+.mintitleproject {
+    font-size: 20px;
+    text-shadow: 0 0 2px #888888;
+}
+.animebutton {
+    margin-top: 30px;
+}
+.white {
+    color: #ffffff;
+}

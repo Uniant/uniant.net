@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-    <html>
+    <html lang="en">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
         <title>プライバシーポリシー - Uniant</title>
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@Uniant">
-        <meta property="og:url" content="https://uniant.net/docs/privacypolicy.php">
+        <meta property="og:url" content="https://uniant.net/en/docs/privacypolicy.php">
         <meta property="og:title" content="プライバシーポリシー - Uniant">
         <meta property="og:description" content="Uniant のプライバシーポリシーをご覧になれます。">
         <meta property="og:image" content="uniantlogo.png">
         <link href="/style.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="../decoration.css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
@@ -83,7 +84,12 @@
                     <span>第 7 条　個人情報の開示</span>
                 </div>
                 <div class="articlemain">
-                    <span>当グループは、本人から個人情報の開示を求められたとき、本人に対し遅滞なくこれを開示します。ただし、開示することにより以下のいずれかに該当する場合は、その全部または一部を開示しないことがあり、開示しない決定をした際には、その旨を遅滞なく通知します。なお、個人情報の開示については、電子開示に限り無料で受け付けます。</span>
+                    <span>当グループは、本人から個人情報の開示を求められたとき、本人に対し遅滞なくこれを開示します。ただし、開示することにより以下のいずれかに該当する場合は、その全部または一部を開示しないことがあり、開示しない決定をした際には、その旨を遅滞なく通知します。なお、個人情報の開示については、電子開示に限り無料で受け付けます。</span><br>
+                    <div class="ruleslist">
+                        <span>・本人または第三者の生命、身体、財産その他の権利利益を害するおそれがある場合</span><br>
+                        <span>・当グループの活動の適正な実施に著しい支障を及ぼすおそれがある場合</span><br>
+                        <span>・その他法令に違反することとなる場合</span>
+                    </div>
                 </div>
                 <div class="article">
                     <span>第 8 条　個人情報の訂正および削除</span>
