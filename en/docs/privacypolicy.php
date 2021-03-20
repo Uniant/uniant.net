@@ -10,8 +10,8 @@
         <meta property="og:title" content="Privacy Policy - Uniant">
         <meta property="og:description" content="You can see the Privacy Policy of Uniant.">
         <meta property="og:image" content="uniantlogo.png">
-        <link href="/style.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="../decoration.css">
+        <link href="../../style.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="../../decoration.css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
         <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.0.js"></script>

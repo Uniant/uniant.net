@@ -1,0 +1,24 @@
+.rulestitle {
+    font-size: 50px;
+}
+.rulesdate {
+    text-align: right;
+    font-size: 20px;
+}
+.chapter {
+    font-size: 30px;
+    margin-top: 30px;
+}
+.article {
+    font-size: 20px;
+    margin: 5px 0 0 15px;
+}
+.articlemain {
+    margin-left: 25px;
+}
+.ruleslist {
+    margin-left: 50px;
+}
+.ruleslist2 {
+    margin-left: 70px;
+}

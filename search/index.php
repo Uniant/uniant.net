@@ -9,6 +9,12 @@
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
         <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.0.js"></script>
+        <style>
+            .titlesearchresult {
+                font-size: 30px;
+                margin-top: 60px;
+            }
+        </style>
     </head>
     <body>
         <div class="header">

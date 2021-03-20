@@ -20,11 +20,6 @@
 </IfModule>
 
 
-<IfModule mod_mime.c>
-	AddType font/opentype .otf
-	AddType font/truetype .ttf
-</IfModule>
-
 <IfModule mod_expires.c>
   ExpiresActive On
   ExpiresByType image/jpeg "access plus 2 month"
@@ -34,7 +29,7 @@
   ExpiresByType text/javascript "access plus 1 weeks"
   ExpiresByType application/javascript "access plus 1 month"
   ExpiresByType image/webp "access plus 1 month"
-  ExpiresByType font/ttf "access plus 3 month"
-  ExpiresByType font/otf "access plus 3 month"
+  ExpiresByType font/truetype "access plus 3 month"
+  ExpiresByType font/opentype "access plus 3 month"
   ExpiresByType image/gif "access plus 2 month"
 </IfModule>
