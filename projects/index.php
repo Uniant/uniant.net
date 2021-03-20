@@ -9,7 +9,7 @@
     <meta property="og:url" content="https://uniant.net/projects/">
     <meta property="og:title" content="プロジェクト - Uniant">
     <meta property="og:description" content="Uniant が提供するプロジェクトの一覧です。">
-    <meta property="og:image" content="../uniantlogo.png">
+    <meta property="og:image" content="https://uniant.net/uniantlogo.png">
     <title>プロジェクト - Uniant</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
