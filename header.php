@@ -1,13 +1,8 @@
 <header>
     <a href="/"><img src="/uniant.png" class="headerimg" alt="Uniant" width="135px" height="30px"></a>
-    <div id="wrapper">
-        <p class="hbutton">
-            <span></span>
-            <span></span>
-            <span></span>
-        </p>
+    <div class="headermenu">
         <nav>
-            <ul class="headermenu">
+            <ul>
                 <div>
                     <li><a href="/projects/" class="under">プロジェクト</a></li>
                     <li><a href="/news/" class="under">ニュース</a></li>
@@ -16,11 +11,11 @@
                 </div>
             </ul>
         </nav>
-        <div class="headersearch">
-            <form action="/search/">
-                <input class="searchbox" id="search-input" placeholder="サイト内を検索" type="text" name="search">
-                <input class="searchboxclick" id="search-buttom" type="submit" value="検索" method="get">
-            </form>
-        </div>
     </div>
+    <!-- <div class="headersearch">
+        <form action="/search/">
+            <input class="searchbox" id="search-input" placeholder="サイト内を検索" type="text" name="search">
+            <input class="searchboxclick" id="search-buttom" type="submit" value="検索" method="get">
+        </form>
+    </div> -->
 </header>

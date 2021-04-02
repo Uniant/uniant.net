@@ -3,11 +3,11 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
-        <title>赤塚弘和 - Uniant</title>
+        <title>滝川秀吉 - Uniant</title>
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@UniantJapan">
-        <meta property="og:url" content="https://uniant.net/members/akatsuka010426">
-        <meta property="og:title" content="赤塚弘和 - Uniant">
+        <meta property="og:url" content="https://uniant.net/members/takigawa010318">
+        <meta property="og:title" content="滝川秀吉 - Uniant">
         <meta property="og:description" content="Uniant に所属する会員の情報をご覧になれます。">
         <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
         <link href="../style.css" rel="stylesheet" type="text/css">
@@ -22,9 +22,9 @@
         </div>
         <div class="membersname">
             <div class="membersnametext">
-                <span class="name">赤塚 弘和</span><br>
-                <span class="nameeng">Akatsuka Hirokazu</span><br><br>
-                <span class="mail">akatsuka010426@uniant.net</span>
+                <span class="name">滝川 秀吉</span><br>
+                <span class="nameeng">Takigawa Hideyoshi</span><br><br>
+                <span class="mail">takigawa010318@uniant.net</span>
             </div>
         </div>
         <div class="content">
@@ -32,26 +32,13 @@
                 <div class="position">
                     <span class="title2">役　職</span><br>
                     <div class="positioncontent">
-                        <span class="vice-chairman">副会長</span>
-                        <span class="exective">幹　部</span>
-                        <span class="development">開発部</span>
                         <span class="publicrelations">広報部</span>
-                        <span class="humanresources">人事部</span>
-                        <span class="generalaffairs">総務部</span>
-                    </div>
-                </div>
-                <div class="projects">
-                    <span class="title2">プロジェクト</span><br>
-                    <div class="projectscontent">
-                        <span class="server">Server</span>
-                        <span class="blog">Blog</span>
                     </div>
                 </div>
                 <div class="sns">
                     <span class="title2">ソーシャルアカウント</span><br>
                     <div class="snscontent">
-                    <span class="twitter"><a href="https://twitter.com/neko0426_game" target="_blank" rel="noopener noreferrer"><img src="twitter.png" alt="Twitter:" class="socialicon">@neko0426_game</a></span>
-                    <span class="github"><a href="https://github.com/Akatsuka0426" target="_blank" rel="noopener noreferrer"><img src="github.png" alt="GitHub:" class="socialicon">@akatsuka0426</a></span>
+                    <span class="twitter"><a href="https://twitter.com/069929" target="_blank" rel="noopener noreferrer"><img src="twitter.png" alt="Twitter:" class="socialicon">@069929</a></span>
                     </div>
                 </div>
             </div>
