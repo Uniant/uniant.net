@@ -5,11 +5,11 @@
         <meta name="viewport" content="width=device-width">
         <title>古地明宏 - Uniant</title>
         <meta name="twitter:card" content="summary">
-        <meta name="twitter:site" content="@Uniant">
-        <meta property="og:url" content="https://uniant.net/members/furuchi011108.php">
+        <meta name="twitter:site" content="@UniantJapan">
+        <meta property="og:url" content="https://uniant.net/members/furuchi011108">
         <meta property="og:title" content="古地明宏 - Uniant">
         <meta property="og:description" content="Uniant に所属する会員の情報をご覧になれます。">
-        <meta property="og:image" content="uniantlogo.png">
+        <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
         <link href="../style.css" rel="stylesheet" type="text/css">
         <link href="./style.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="../decoration.css">
@@ -49,8 +49,8 @@
                 <div class="sns">
                     <span class="title2">ソーシャルアカウント</span><br>
                     <div class="snscontent">
-                    <span class="twitter"><img src="twitter.png" alt="Twitter:" class="socialicon">@Komeiji_Fran</span>
-                    <span class="github"><img src="github.png" alt="GitHub:" class="socialicon">@Komeiji-Fran</span>
+                    <span class="twitter"><a href="https://twitter.com/Komeiji_Fran" target="_blank" rel="noopener noreferrer"><img src="twitter.png" alt="Twitter:" class="socialicon">@Komeiji_Fran</a></span>
+                    <span class="github"><a href="https://github.com/Komeiji-Fran" target="_blank" rel="noopener noreferrer"><img src="github.png" alt="GitHub:" class="socialicon">@Komeiji-Fran</a></span>
                     </div>
                 </div>
             </div>

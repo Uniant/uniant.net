@@ -9,7 +9,7 @@
         <meta property="og:url" content="https://uniant.net/en/">
         <meta property="og:title" content="Uniant - Official Home Page">
         <meta property="og:description" content="Here is the Uniant Official Page. You can see the projects information and latest information of Uniant.">
-        <meta property="og:image" content="uniantlogo.png">
+        <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
         <link href="../style.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="../decoration.css">
         <link rel="stylesheet" href="../swiper-bundle.min.css">

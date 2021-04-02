@@ -9,7 +9,7 @@
         <meta property="og:url" content="https://uniant.net/">
         <meta property="og:title" content="Uniant - Official Home Page">
         <meta property="og:description" content="Uniant 公式ホームページです。 Uniant の製品情報および最新の情報をご覧になれます。">
-        <meta property="og:image" content="uniantlogo.png">
+        <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
         <link href="style.css" rel="stylesheet" type="text/css">

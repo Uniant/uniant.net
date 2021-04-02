@@ -33,3 +33,13 @@
   ExpiresByType font/opentype "access plus 3 month"
   ExpiresByType image/gif "access plus 2 month"
 </IfModule>
+
+
+# Block Cloud & some spider
+order allow,deny
+allow from all
+deny from googleusercontent.com
+deny from amazonaws.com
+deny from wvd.microsoft.com
+deny from sogou.com
+deny from baidu.com
