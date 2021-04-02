@@ -67,6 +67,9 @@ body {
 .blog {
     background-color: #47a9cc;
 }
+.support {
+    background-color: #979c9f;
+}
 .socialicon {
     height: 20px;
 }
@@ -75,5 +78,7 @@ body {
 }
 .github {
     background-color: #24292e;
+}
+.github a {
     color: #ffffff;
 }
