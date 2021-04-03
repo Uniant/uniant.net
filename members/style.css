@@ -41,7 +41,7 @@ body {
     margin-top: 15px;
     display: inline-block;
 }
-.positioncontent span, .projectscontent span, .snscontent span {
+.positioncontent span, .projectscontent span, .snscontent span, .memberposition span {
     padding: 5px 10px;
     font-size: 18px;
 }
