@@ -126,6 +126,6 @@
         <div class="footer">
             <?php include('../footer.php') ?>
         </div>
-        <script src="script.js"></script>
+        <script src="../script.js" type="text/javascript"></script>
     </body>
 </html>

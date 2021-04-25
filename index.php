@@ -21,6 +21,8 @@
             }
             .swiper-slide {
                 position: relative;
+                object-fit: contain;
+                background-color: #888888;
             }
             .swiper-slide span, .swiper-slide a {
                 position: absolute;
@@ -60,6 +62,12 @@
                 display: flex;
                 justify-content: space-between;
             }
+            .disturbes, .support, .comingsoon {
+                text-align: center;
+            }
+            .support, .comingsoon {
+                margin-top: 30px;
+            }
             .title1 {
                 display: inline-block;
                 margin-bottom: 10px;
@@ -70,6 +78,15 @@
             .title1right {
                 font-size: 20px;
                 margin-left: 10px;
+            }
+            @media screen and (max-width:765px) {
+                .projecttexts {
+                    display: block;
+                    margin: 0 auto;
+                }
+                .swiper-slide img {
+                    object-fit: contain;
+                }
             }
         </style>
     </head>
@@ -158,5 +175,6 @@
                 },
             });
         </script>
+        <script src="script.js" type="text/javascript"></script>
     </body>
 </html>
