@@ -95,7 +95,7 @@
             <hr class="partition">
             <div class="memberabout">
                 <div class="member">
-                    <span><a href="./hakata0110002">博多太郎</a></span>
+                    <span><a href="./hakata011002">博多太郎</a></span>
                 </div>
                 <div class="memberposition">
                     <span class="exective">幹　部</span>
@@ -176,13 +176,19 @@
             <hr class="partition">
             <div class="memberabout">
                 <div class="member">
+                    <span><a href="./hashioka010923">橋岡秀人</a></span>
+                </div>
+            </div>
+            <hr class="partition">
+            <div class="memberabout">
+                <div class="member">
                     <span><a href="./shisui010831">酒々井乙彦</a></span>
                 </div>
             </div>
             <hr class="partition">
             <div class="memberabout">
                 <div class="member">
-                    <span><a href="./takasugi010306">高杉理史</a></span>
+                    <span><a href="./takasugi010306">riHitosan</a></span>
                 </div>
             </div>
             <hr class="partition">
@@ -207,5 +213,6 @@
         <div class="footer">
             <?php include('../footer.php') ?>
         </div>
+        <script src="../script.js" type="text/javascript"></script>
     </body>
 </html>

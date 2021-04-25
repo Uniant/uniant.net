@@ -44,7 +44,7 @@ a {
     margin: 10px 10px 0 5%;
     float: left;
 }
-header nav ul li {
+.headermenu nav ul li {
     margin-left: 30px;
     display: inline-block;
     position: relative;
@@ -91,7 +91,19 @@ header nav ul li {
     top: 125px;
     left: 5%;
 }
+.title1 {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.title1left {
+    font-size: 30px;
+}
+.title1right {
+    font-size: 20px;
+    margin-left: 10px;
+}
 .footer {
+    width: 100%;
     margin-top: 50px;
     background-color: #444444;
     text-shadow: 0px 0px 5px #ffffff;
@@ -138,6 +150,12 @@ footer * {
     color: #cccccc;
     text-shadow: 0px 0px 5px #cccccc;
 }
+.lastmenuleft p {
+    float: left;
+}
+.lastmenuleft p:nth-child(2) {
+    margin-left: 30px;
+}
 .footermenu a {
     position: relative;
     text-decoration: none;
@@ -157,4 +175,92 @@ footer * {
 }
 .footermenu a:hover::after {
     transform: scale(1, 1);
+}
+.responsivelist {
+    position: absolute;
+    height: 200px;
+    width: 100%;
+    background-color: #cccccc;
+    display: none;
+    margin-top: 0;
+}
+.responsivelist li {
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    box-sizing: border-box;
+}
+.hamburgermenu {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 12px;
+    left: 50px;
+    cursor: pointer;
+    display: none;
+}
+.hamburger {
+    width: 40px;
+    height: 30px;
+    position: relative;
+}
+.hamburgerline {
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: #636363;
+    position: absolute;
+}
+.hamline1 {
+    top: 0;
+}
+.hamline2 {
+    top: 13px;
+}
+.hamline3 {
+    top: 26px;
+}
+li {
+    list-style-type: none;
+}
+.menudisplay {
+    display: block;
+}
+@media screen and (max-width:765px) {
+    .footercontentmenu {
+        display: inline-block;
+    }
+    .footermenu {
+        display: inline-block;
+        margin-top: 50px;
+    }
+    .lastmenu, .lastmenuleft {
+        display: inline-block;
+        clear: left;
+    }
+    .lastmenuleft p:nth-child(2) {
+        margin-left: 0;
+    }
+    .hamburgermenu {
+        display: block;
+    }
+    .headermenu {
+        display: none;
+    }
+    .headerimg {
+        margin: 0;
+        float: none;
+    }
+    .headerimg img {
+        display: block;
+        text-align: center;
+        margin: 10px auto;
+        float: none;
+    }
 }

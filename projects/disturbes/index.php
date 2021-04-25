@@ -9,7 +9,7 @@
     <meta property="og:url" content="https://uniant.net/projects/disturbes/">
     <meta property="og:title" content="Disturbes - Uniant">
     <meta property="og:description" content="Disturbes 製品群のページです。">
-    <meta property="og:image" content="https://uniant.net/uniantlogo.png">
+    <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
     <title>Disturbes - Uniant</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
@@ -75,12 +75,13 @@
         <div class="download">
             <span class="title">ダウンロード</span><br>
             <hr class="titleunderline2">
-            <span>GitHub の公式リポジトリからご利用ください。</span><br>
+            <span>GitHub の公式リポジトリからダウンロードしてください。</span><br>
             <a href="https://github.com/Uniant/Disturbes" class="animebutton" target="_blank" rel="noopener noreferrer">リポジトリはこちら</a>
         </div>
     </div>
     <div class="footer">
         <?php include('../../footer.php') ?>
     </div>
+    <script src="../../script.js" type="text/javascript"></script>
 </body>
 </html>

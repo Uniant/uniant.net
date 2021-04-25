@@ -34,6 +34,7 @@
                     <div class="positioncontent">
                         <span class="exective">幹　部</span>
                         <span class="development">開発部</span>
+                        <span class="publicrelations">広報部</span>
                     </div>
                 </div>
                 <div class="projects">
@@ -55,5 +56,6 @@
         <div class="footer">
             <?php include('../footer.php') ?>
         </div>
+        <script src="../script.js" type="text/javascript"></script>
     </body>
 </html>

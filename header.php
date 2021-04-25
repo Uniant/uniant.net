@@ -1,21 +1,30 @@
 <header>
-    <a href="/"><img src="/uniant.png" class="headerimg" alt="Uniant" width="135px" height="30px"></a>
+    <div class="headerimg"><a href="/"><img src="/uniant.png" alt="Uniant" width="130px" height="30px"></a></div>
+    <nav class="responsivelist" id="listresponsive">
+        <ul>
+            <li><a href="/projects/" class="under list">プロジェクト</a></li>
+            <li><a href="/news/" class="under list">ニュース</a></li>
+            <li><a href="https://blog.uniant.net/" class="under list">ブログ</a></li>
+            <li><a href="https://support.uniant.net/" class="under list">お問い合わせ</a></li>
+        </ul>
+    </nav>
+    <div class="hamburgermenu" id="ham">
+        <div class="hamburger">
+            <span class="hamburgerline hamline1"></span>
+            <span class="hamburgerline hamline2"></span>
+            <span class="hamburgerline hamline3"></span>
+        </div>
+    </div>
     <div class="headermenu">
         <nav>
             <ul>
                 <div>
-                    <li><a href="/projects/" class="under">プロジェクト</a></li>
-                    <li><a href="/news/" class="under">ニュース</a></li>
+                    <li><a href="https://uniant.net/projects/" class="under">プロジェクト</a></li>
+                    <li><a href="https://uniant.net/news/" class="under">ニュース</a></li>
                     <li><a href="https://blog.uniant.net/" class="under">ブログ</a></li>
                     <li><a href="https://support.uniant.net/" class="under">お問い合わせ</a></li>
                 </div>
             </ul>
         </nav>
     </div>
-    <!-- <div class="headersearch">
-        <form action="/search/">
-            <input class="searchbox" id="search-input" placeholder="サイト内を検索" type="text" name="search">
-            <input class="searchboxclick" id="search-buttom" type="submit" value="検索" method="get">
-        </form>
-    </div> -->
 </header>

@@ -3,11 +3,11 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
-        <title>高杉理史 - Uniant</title>
+        <title>riHitosan - Uniant</title>
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@UniantJapan">
         <meta property="og:url" content="https://uniant.net/members/takasugi010306">
-        <meta property="og:title" content="高杉理史 - Uniant">
+        <meta property="og:title" content="riHitosan - Uniant">
         <meta property="og:description" content="Uniant に所属する会員の情報をご覧になれます。">
         <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
         <link href="../style.css" rel="stylesheet" type="text/css">
@@ -22,8 +22,8 @@
         </div>
         <div class="membersname">
             <div class="membersnametext">
-                <span class="name">高杉 理史</span><br>
-                <span class="nameeng">Takasugi Rihito</span><br><br>
+                <span class="name">riHitosan</span><br>
+                <span class="nameeng"></span><br><br>
                 <span class="mail">takasugi010306@uniant.net</span>
             </div>
         </div>
@@ -53,5 +53,6 @@
         <div class="footer">
             <?php include('../footer.php') ?>
         </div>
+        <script src="../script.js" type="text/javascript"></script>
     </body>
 </html>
