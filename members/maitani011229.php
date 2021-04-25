@@ -34,6 +34,7 @@
                     <div class="positioncontent">
                         <span class="exective">幹　部</span>
                         <span class="development">開発部</span>
+                        <span class="publicrelations">広報部</span>
                     </div>
                 </div>
                 <div class="projects">

@@ -1,5 +1,5 @@
 <header>
-    <a href="/"><img src="/uniant.png" class="headerimg" alt="Uniant" width="135px" height="30px"></a>
+    <a href="/"><img src="/uniant.png" class="headerimg" alt="Uniant" width="130px" height="30px"></a>
     <div class="headermenu">
         <nav>
             <ul>

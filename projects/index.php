@@ -9,7 +9,7 @@
     <meta property="og:url" content="https://uniant.net/projects/">
     <meta property="og:title" content="プロジェクト - Uniant">
     <meta property="og:description" content="Uniant が提供するプロジェクトの一覧です。">
-    <meta property="og:image" content="https://uniant.net/uniantlogo.png">
+    <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
     <title>プロジェクト - Uniant</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
@@ -22,16 +22,6 @@
         <?php include('../header.php') ?>
     </div>
     <div class="content">
-        <div class="project">
-            <div class="backimage">
-                <img src="dark.png" alt="">
-            </div>
-            <div class="textonimage">
-                <span class="titleproject white">ファイル共有</span><br>
-                <span class="mintitleproject white">スマートな共有で高い生産性を。</span><br>
-                <a href="./disturbes/" class="animebutton white">詳しく見る</a>
-            </div>
-        </div>
         <div class="project">
             <div class="backimage">
                 <img src="../01.png" alt="">
@@ -49,7 +39,7 @@
             <div class="textonimage">
                 <span class="titleproject white">Delete File</span><br>
                 <span class="mintitleproject white">超効率、超高速のファイル削除。</span><br>
-                <a href="./disturbes/" class="animebutton white">詳しく見る</a>
+                <a href="./deletefile/" class="animebutton white">詳しく見る</a>
             </div>
         </div>
     </div>

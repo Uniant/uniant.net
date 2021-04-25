@@ -3,11 +3,11 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
-        <title>riHitosan - Uniant</title>
+        <title>橋岡秀人 - Uniant</title>
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@UniantJapan">
-        <meta property="og:url" content="https://uniant.net/members/takasugi010306">
-        <meta property="og:title" content="riHitosan - Uniant">
+        <meta property="og:url" content="https://uniant.net/members/hashioka010923">
+        <meta property="og:title" content="橋岡秀人 - Uniant">
         <meta property="og:description" content="Uniant に所属する会員の情報をご覧になれます。">
         <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
         <link href="../style.css" rel="stylesheet" type="text/css">
@@ -22,9 +22,9 @@
         </div>
         <div class="membersname">
             <div class="membersnametext">
-                <span class="name">riHitosan</span><br>
-                <span class="nameeng"></span><br><br>
-                <span class="mail">takasugi010306@uniant.net</span>
+                <span class="name">橋岡 秀人</span><br>
+                <span class="nameeng">Hashioka Hideto</span><br><br>
+                <span class="mail">hashioka010923@uniant.net</span>
             </div>
         </div>
         <div class="content">
@@ -44,8 +44,7 @@
                 <div class="sns">
                     <span class="title2">ソーシャルアカウント</span><br>
                     <div class="snscontent">
-                    <span class="twitter"><a href="https://twitter.com/riHitosandayo" target="_blank" rel="noopener noreferrer"><img src="twitter.png" alt="Twitter:" class="socialicon">@riHitosandayo</a></span>
-                    <span class="github"><a href="https://github.com/rihitosan" target="_blank" rel="noopener noreferrer"><img src="github.png" alt="GitHub:" class="socialicon">@rihitosan</a></span>
+                    <span class="twitter"><a href="https://twitter.com/tor74884341" target="_blank" rel="noopener noreferrer"><img src="twitter.png" alt="Twitter:" class="socialicon">@tor74884341</a></span>
                     </div>
                 </div>
             </div>
