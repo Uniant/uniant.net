@@ -1,4 +1,5 @@
 <?php
+header("Permissions-Policy: interest-cohort=()");
 $title = $_POST["title"];
 $content = $_POST["content"];
 $date = date ("Y 年 m 月 d 日");
