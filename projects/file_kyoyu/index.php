@@ -46,6 +46,9 @@
         .usla, .download {
             margin-top: 10px;
         }
+        .animebutton {
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
@@ -78,6 +81,8 @@
         <div class="download">
             <span class="title">ダウンロード</span><br>
             <hr class="titleunderline2">
+            <span>最新版をダウンロード（推奨）</span><br>
+            <a href="https://github.com/Uniant/file_kyoyu/releases/download/v1.0.0/file_kyoyu.zip" class="animebutton">ダウンロード</a><br><br>
             <span>GitHub の公式リポジトリからダウンロードしてください。</span><br>
             <a href="https://github.com/Uniant/file_kyoyu" class="animebutton" target="_blank" rel="noopener noreferrer">リポジトリはこちら</a>
         </div>
