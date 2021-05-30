@@ -32,6 +32,20 @@
                 <a href="./disturbes/" class="animebutton">詳しく見る</a>
             </div>
         </div>
+	</div>
+
+	<div class="project">
+            <div class="backimage">
+                <img src="../02.png" alt="">
+            </div>
+            <div class="textonimage">
+                <span class="titleproject">（wifi間で）ファイル共有</span><br>
+                <span class="mintitleproject">wifi間でファイルを共有するソフト</span><br>
+                <a href="./file_kyoyu/" class="animebutton">詳しく見る</a>
+            </div>
+        </div>
+	</div>
+
         <!--<div class="project">
             <div class="backimage">
                 <img src="dark.png" alt="">
