@@ -32,21 +32,7 @@
                 <a href="./disturbes/" class="animebutton">詳しく見る</a>
             </div>
         </div>
-	</div>
-
-	<div class="project">
-            <div class="backimage">
-                <img src="../02.png" alt="">
-            </div>
-            <div class="textonimage">
-                <span class="titleproject">（wifi間で）ファイル共有</span><br>
-                <span class="mintitleproject">wifi間でファイルを共有するソフト</span><br>
-                <a href="./file_kyoyu/" class="animebutton">詳しく見る</a>
-            </div>
-        </div>
-	</div>
-
-        <!--<div class="project">
+        <div class="project">
             <div class="backimage">
                 <img src="dark.png" alt="">
             </div>
@@ -55,7 +41,18 @@
                 <span class="mintitleproject white">超効率、超高速のファイル削除。</span><br>
                 <a href="./deletefile/" class="animebutton white">詳しく見る</a>
             </div>
-        </div> -->
+        </div>
+        <div class="project">
+            <div class="backimage">
+                <img src="../02.png" alt="">
+            </div>
+            <div class="textonimage">
+                <span class="titleproject">ファイル共有</span><br>
+                <span class="mintitleproject">WiFi 間でファイルを共有するソフト</span><br>
+                <a href="./file_kyoyu/" class="animebutton">詳しく見る</a>
+            </div>
+        </div>
+	</div>
     </div>
     <div class="footer">
         <?php include('../footer.php') ?>
