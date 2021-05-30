@@ -217,13 +217,13 @@ footer * {
     background: #636363;
     position: absolute;
 }
-.hamline1 {
+#hamline1 {
     top: 0;
 }
-.hamline2 {
+#hamline2 {
     top: 13px;
 }
-.hamline3 {
+#hamline3 {
     top: 26px;
 }
 li {
@@ -231,6 +231,17 @@ li {
 }
 .menudisplay {
     display: block;
+}
+.line1.open {
+    transform: rotate(135deg);
+    top: 13px !important;
+}
+.line2.open {
+    display: none;
+}
+.line3.open {
+    transform: rotate(-135deg);
+    top: 13px !important;
 }
 @media screen and (max-width:765px) {
     .footercontentmenu {

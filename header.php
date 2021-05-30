@@ -10,9 +10,9 @@
     </nav>
     <div class="hamburgermenu" id="ham">
         <div class="hamburger">
-            <span class="hamburgerline hamline1"></span>
-            <span class="hamburgerline hamline2"></span>
-            <span class="hamburgerline hamline3"></span>
+            <span class="hamburgerline line1" id="hamline1"></span>
+            <span class="hamburgerline line2" id="hamline2"></span>
+            <span class="hamburgerline line3" id="hamline3"></span>
         </div>
     </div>
     <div class="headermenu">
