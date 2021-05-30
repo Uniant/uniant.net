@@ -78,7 +78,7 @@
             <span class="title">ダウンロード</span><br>
             <hr class="titleunderline2">
             <span>最新版をダウンロード（推奨）</span><br>
-            <a href="https://github.com/Uniant/file_kyoyu/releases/download/v1.0.0/file_kyoyu.zip" class="animebutton">ダウンロード</a>
+            <a href="https://github.com/Uniant/file_kyoyu/releases/download/v1.0.0/file_kyoyu.zip" class="animebutton">ダウンロード</a><br>
             <span>GitHub の公式リポジトリからダウンロードする</span><br>
             <a href="https://github.com/Uniant/file_kyoyu" class="animebutton" target="_blank" rel="noopener noreferrer">リポジトリはこちら</a>
         </div>
