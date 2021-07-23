@@ -209,6 +209,12 @@
                     <span><a href="./izushima011103">伊豆島武史</a></span>
                 </div>
             </div>
+            <hr class="partition">
+            <div class="memberabout">
+                <div class="member">
+                    <span><a href="./amatsu010205">天津周治</a></span>
+                </div>
+            </div>
         </div>
         <div class="footer">
             <?php include('../footer.php') ?>

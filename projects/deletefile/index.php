@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@UniantJapan">
-    <meta property="og:url" content="https://uniant.net/projects/file_kyoyu">
-    <meta property="og:title" content="（wifi間での）ファイル共有 - Uniant">
-    <meta property="og:description" content="（pcとスマホ間での）ファイル共有ソフト">
+    <meta property="og:url" content="https://uniant.net/projects/disturbes/">
+    <meta property="og:title" content="Disturbes - Uniant">
+    <meta property="og:description" content="Disturbes 製品群のページです。">
     <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
-    <title>ファイル共有ソフト - Uniant</title>
+    <title>Disturbes - Uniant</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../../style.css">
@@ -46,9 +46,6 @@
         .usla, .download {
             margin-top: 10px;
         }
-        .animebutton {
-            margin-top: 10px;
-        }
     </style>
 </head>
 <body>
@@ -57,34 +54,25 @@
     </div>
     <div class="content">
         <div class="title">
-            <span>ファイル共有ソフト</span><br>
+            <span>Delete File</span><br>
             <hr class="titleunderline">
         </div>
-        <span class="catchcopy">WiFi 間でのファイルを共有</span>
+        <span class="catchcopy">超効率のファイル削除</span>
         <div class="description">
             <div class="about">
-                <span>お使いのパソコンのファイルをスマートフォンに WiFi を経由して QR コードで共有するソフト</span>
-            </div>
-            <div class="attention">
-                <span class="title">注意事項</span>
-                <hr class="titleunderline2">
-                <span>1. 同じ WiFi につないでなければファイルは共有されません。</span><br>
-                <span>2. 全世界でファイルが共有されるわけではありません。</span><br>
-                <span>3. ソフト内に書かれている注意書きをよく読んでください。</span><br>
-		        <img src="https://raw.githubusercontent.com/Uniant/file_kyoyu/master/logo.png" style="width:500px;">
+                <span>フォルダを指定、拡張子を選択して検索し、ファイルを削除します。</span>
             </div>
         </div>
         <div class="usla">
-            <span>このソフトは、Uniant ソフトウェアライセンス契約に同意の上でご利用ください。</span><br>
+            <span>このソフトは、Uniant ソフトウェアライセンス契約に同意の上でご利用ください。ただし、ご利用について Uniant は一切責任を負いません。</span><br>
+            <span>なお、使用承諾契約はソフトウェアの初回起動時にも表示されます。</span><br>
             <a href="../../docs/usla.php" class="animebutton">Uniant ソフトウェアライセンス契約</a>
         </div>
         <div class="download">
             <span class="title">ダウンロード</span><br>
             <hr class="titleunderline2">
-            <span>最新版をダウンロード（推奨）</span><br>
-            <a href="https://github.com/Uniant/file_kyoyu/releases/download/v1.0.0/file_kyoyu.zip" class="animebutton">ダウンロード</a><br><br>
-            <span>GitHub の公式リポジトリからもダウンロードが可能です。</span><br>
-            <a href="https://github.com/Uniant/file_kyoyu" class="animebutton" target="_blank" rel="noopener noreferrer">リポジトリはこちら</a>
+            <span>以下のボタンをクリックしてダウンロードしてください。</span><br>
+            <a href="deletefile.zip" class="animebutton" target="_blank" rel="noopener noreferrer">ダウンロードはこちら</a>
         </div>
     </div>
     <div class="footer">

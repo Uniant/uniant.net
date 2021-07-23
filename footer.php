@@ -10,8 +10,8 @@
                     <ul>
                         <span class="footermenutitle">プロジェクト</span><br>
                         <li><a href="https://uniant.net/projects/disturbes/">Disturbes 製品群</a></li>
-                        <br>
-                        <br>
+                        <li><a href="https://uniant.net/projects/deletefile/">ファイル削除</a></li>
+                        <li><a href="https://uniant.net/projects/file_kyoyu/">ファイル共有</a></li>
                         <br>
                     </ul>
                 </div>
