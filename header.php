@@ -1,9 +1,10 @@
+<?php header('Permissions-Policy: interest-cohort=()') ?>
 <header>
     <div class="headerimg"><a href="/"><img src="/uniant.png" alt="Uniant" width="130px" height="30px"></a></div>
     <nav class="responsivelist" id="listresponsive">
         <ul>
-            <li><a href="/projects/" class="under list">プロジェクト</a></li>
-            <li><a href="/news/" class="under list">ニュース</a></li>
+            <li><a href="https://uniant.net/projects/" class="under list">プロジェクト</a></li>
+            <li><a href="https://uniant.net/news/" class="under list">ニュース</a></li>
             <li><a href="https://blog.uniant.net/" class="under list">ブログ</a></li>
             <li><a href="https://support.uniant.net/" class="under list">お問い合わせ</a></li>
         </ul>
