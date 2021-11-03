@@ -1,48 +1,40 @@
+<img src="https://uniant.net/assets/image/footer.svg" alt="">
 <footer>
-    <div class="footercontent">
-        <div class="footercontentmenu">
-            <div class="footerlogo">
-                <a href="https://uniant.net/"><img src="https://uniant.net/uniantwhite.png" class="footerlogoimg" alt="Uniant" width="180px" height="50px"></a><br>
-                <span class="footermailadress"><a href="mailto:contact@uniant.net">contact@uniant.net</a></span>
-            </div>
-            <div class="footermenu">
-                <div class="footermenu1">
-                    <ul>
-                        <span class="footermenutitle">プロジェクト</span><br>
-                        <li><a href="https://uniant.net/projects/disturbes/">Disturbes 製品群</a></li>
-                        <li><a href="https://uniant.net/projects/deletefile/">ファイル削除</a></li>
-                        <li><a href="https://uniant.net/projects/file_kyoyu/">ファイル共有</a></li>
-                        <br>
-                    </ul>
-                </div>
-                <div class="footermenu2">
-                    <ul>
-                        <span class="footermenutitle">公式アカウント</span><br>
-                        <li><a href="https://twitter.com/UniantJapan" target="_blank" rel="noopener noreferrer">Twitter</a></li>
-                        <li><a href="https://www.youtube.com/channel/UCwE_EXt4p01-nsbKHH89F1g" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-                        <li><a href="https://github.com/Uniant" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-                        <li><a href="https://discord.gg/GYUKdPk" target="_blank" rel="noopener noreferrer">Discord</a></li>
-                    </ul>
-                </div>
-                <div class="footermenu3">
-                    <ul>
-                        <span class="footermenutitle">コミュニティ</span>
-                        <li><a href="https://uniant.net/recruit/">参加する</a></li>
-                        <li><a href="https://support.uniant.net/">お問い合わせ</a></li>
-                        <br>
-                        <br>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="lastmenu">
-            <div class="lastmenuleft">
-                <p><a href="https://uniant.net/docs/privacypolicy.php">プライバシーポリシー</a></p>
-                <p><a href="https://uniant.net/docs/usla.php">Uniant ソフトウェアライセンス契約</a></p>
-            </div>
-            <div class="lastmenuright">
-                <span>&copy; 2020 - 2021 Uniant</span>
-            </div>
-        </div>
-    </div>
+	<div class="footercontents">
+		<div class="leftcontent">
+			<h1 class="uniant">Uniant</h1>
+			<span class="footerslogan">New Future, New Technology.</span>
+			<hr class="footerline">
+			<div class="sites">
+				<div class="sitesfooterline">
+					<span>Web:</span>
+					<a href="https://uniant.net" target="_blank" rel="noopener noreferrer"><span>https://uniant.net/</span></a>
+				</div>
+				<div class="sitesfooterline">
+					<span>Twitter:</span>
+					<a href="https://twitter.com/UniantJapan" target="_blank" rel="noopener noreferrer"><span>@UniantJapan</span></a>
+				</div>
+				<div class="sitesfooterline">
+					<span>GitHub:</span>
+					<a href="https://github.com/Uniant" target="_blank" rel="noopener noreferrer"><span>Uniant</span></a>
+				</div>
+				<div class="sitesfooterline">
+					<span>Discord:</span>
+					<a href="https://discord.gg/GYUKdPk" target="_blank" rel="noopener noreferrer"><span>https://discord.gg/GYUKdPk</span></a>
+				</div>
+			</div>
+			<div class="copyright">
+				<span>Designed by Yobibyte /<br>&copy; 2021 Uniant</span>
+			</div>
+		</div>
+		<div class="centermenu">
+			<span>About</span>
+			<div class="menucontent">
+				<a href="https://uniant.net/about/"><p>About Uniant</p></a>
+				<a href="https://uniant.net/projects/"><p>Projects</p></a>
+				<a href="https://uniant.net/join/"><p>Join</p></a>
+				<a href="https://support.uniant.net/"><p>Contact</p></a>
+			</div>
+		</div>
+	</div>
 </footer>
