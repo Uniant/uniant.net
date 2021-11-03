@@ -1,27 +1,37 @@
 <!DOCTYPE html>
 <html lang="ja">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width">
-        <title>404 Not Found - Uniant</title>
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
-        <link href="../style.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="../decoration.css" type="text/css">
-    </head>
-    <body>
-        <div class="header">
-            <?php include('../header.php') ?>
-        </div>
-        <div class="content">
-            <div style="text-align:center;padding-top:50px;">
-                <span style="font-size:30px;">お探しのページは見つかりませんでした。</span><br>
-                <span style="font-size:20px;">We are sorry, the page is not found you requested.</span>
+<head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Noto+Sans+JP:wght@400&display=swap" rel="stylesheet">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+    <meta name="robots" content="noindex">
+    <link rel="icon" href="/favicon.png">
+	<title>404 Not Found - Uniant</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Noto+Sans+JP:wght@300;500&display=swap" rel="stylesheet">
+	<link href="https://uniant.net/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="https://uniant.net/assets/css/page/error.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<?php include('../header.php') ?>
+        <main>
+            <div class="top">
+                <img src="../assets/image/error/404.svg" alt="">
+                <h1>The page was not found.</h1>
             </div>
-        </div>
-        <div class="footer">
-            <?php include('../footer.php') ?>
-        </div>
-        <script src="../script.js" type="text/javascript"></script>
-    </body>
+            <div class="messages">
+                <span>お探しのページは見つかりませんでした。</span>
+            </div>
+            <div class="button">
+                <a href="/">トップページに戻る</a>
+            </div>
+        </main>
+		<div class="footer">
+			<?php include('../footer.php') ?>
+		</div>
+    <script src="../assets/js/script.js" type="text/javascript"></script>
+  </body>
 </html>

@@ -1,48 +1,40 @@
+<img src="https://uniant.net/assets/image/footer.svg" alt="">
 <footer>
-    <div class="footercontent">
-        <div class="footercontentmenu">
-            <div class="footerlogo">
-                <a href="/"><img src="/uniantwhite.png" class="footerlogoimg" alt="Uniant"></a><br>
-                <span class="footermailadress"><a href="mailto:contact@uniant.net">contact@uniant.net</a></span>
-            </div>
-            <div class="footermenu">
-                <div class="footermenu1">
-                    <ul>
-                        <span class="footermenutitle">Projects</span><br>
-                        <li><a href="/projects/disturbes/">Disturbes Product Family</a></li>
-                        <br>
-                        <br>
-                        <br>
-                    </ul>
-                </div>
-                <div class="footermenu2">
-                    <ul>
-                        <span class="footermenutitle">Official Accounts</span><br>
-                        <li><a href="https://twitter.com/Trownsoft" target="_blank">Twitter</a></li>
-                        <li><a href="https://www.youtube.com/channel/UCwE_EXt4p01-nsbKHH89F1g" target="_blank">YouTube</a></li>
-                        <li><a href="https://github.com/Trownsoft" target="_blank">GitHub</a></li>
-                        <li><a href="https://discord.gg/GYUKdPk" target="_blank">Discord</a></li>
-                    </ul>
-                </div>
-                <div class="footermenu3">
-                    <ul>
-                        <span class="footermenutitle">Community</span>
-                        <li><a href="/recruit/">Join us</a></li>
-                        <li><a href="https://support.uniant.net/">Support</a></li>
-                        <br>
-                        <br>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="lastmenu">
-            <div class="lastmenuleft">
-                <span><a href="/en/docs/privacypolicy.php">Privacy Policy</a></span>
-                <span style="margin-left:30px;"><a href="/en/docs/usla.php">Uniant Software License Agreement</a></span>
-            </div>
-            <div class="lastmenuright">
-                <span>&copy; 2020 - 2021 Uniant</span>
-            </div>
-        </div>
-    </div>
+	<div class="footercontents">
+		<div class="leftcontent">
+			<h1 class="uniant">Uniant</h1>
+			<span class="footerslogan">New Future, New Technology.</span>
+			<hr class="footerline">
+			<div class="sites">
+				<div class="sitesfooterline">
+					<span>Web:</span>
+					<a href="https://uniant.net" target="_blank" rel="noopener noreferrer"><span>https://uniant.net/</span></a>
+				</div>
+				<div class="sitesfooterline">
+					<span>Twitter:</span>
+					<a href="https://twitter.com/UniantJapan" target="_blank" rel="noopener noreferrer"><span>@UniantJapan</span></a>
+				</div>
+				<div class="sitesfooterline">
+					<span>GitHub:</span>
+					<a href="https://github.com/Uniant" target="_blank" rel="noopener noreferrer"><span>Uniant</span></a>
+				</div>
+				<div class="sitesfooterline">
+					<span>Discord:</span>
+					<a href="https://discord.gg/GYUKdPk" target="_blank" rel="noopener noreferrer"><span>https://discord.gg/GYUKdPk</span></a>
+				</div>
+			</div>
+			<div class="copyright">
+				<span>Designed by Yobibyte /<br>&copy; 2021 Uniant</span>
+			</div>
+		</div>
+		<div class="centermenu">
+			<span>About</span>
+			<div class="menucontent">
+				<a href="https://uniant.net/en/about/"><p>About Uniant</p></a>
+				<a href="https://uniant.net/en/projects/"><p>Projects</p></a>
+				<a href="https://uniant.net/en/join/"><p>Join</p></a>
+				<a href="https://support.uniant.net/"><p>Contact (JP)</p></a>
+			</div>
+		</div>
+	</div>
 </footer>

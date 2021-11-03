@@ -1,221 +1,128 @@
 <!DOCTYPE html>
-
-<!--
-                            ###
-                         ###   ###
-                      ###         ###
-                   ###        ###    ###
-                ###              ###    ###
-             ###          ###       ###    ###
-          ###          ###             ###    ###
-       ###          ###      ###          ###    ###
-    ###           ###           ###          ###    ###
-   #    #      ###                 ###     #           #
-   #    #   ###                       ###  #           #
-   #    #        #                         #           #
-   #    #        #                         #           #
-   #    #        #                         #           #
-   #    #        #                         #           #
-   #    #        #                         #           #
-   #    #        #                         #           #
-   #    #   ###                        ### #           #
-   #    #      ###                  ###    #           #
-    ###           ###            ###         ###    ###
-       ###           ###      ###         ###    ###
-          ###           ###            ###    ###
-             ###           ###      ###    ###
-                ###              ###    ###
-                   ###        ###    ###
-                      ###         ###
-                         ###   ###
-                            ### 
-#             #
-#             #               
-#             #               #
-#             #               
-#             #  #   ####     #    #####    #   ####         #
-#             #  # ##    ##   #  ##     ##  # ##    ##   #########
-#             #  ##        #  #    #######  ##        #      #
- ##         ##   ##        #  #   #      #  ##        #      #
-  ###     ###    ##        #  #   ##    ##  ##        #      #
-    #######      ##        #  #     #### #  ##        #      #
--->
 <html lang="ja">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width">
-        <title>Uniant - Official Home Page</title>
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:site" content="@UniantJapan">
-        <meta property="og:url" content="https://uniant.net/">
-        <meta property="og:title" content="Uniant - Official Home Page">
-        <meta property="og:description" content="Uniant 公式ホームページです。 Uniant の製品情報および最新の情報をご覧になれます。">
-        <meta property="og:image" content="https://uniant.net/uniantlogoblack.png">
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
-        <link href="style.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="decoration.css" type="text/css">
-        <link rel="stylesheet" href="swiper-bundle.min.css" type="text/css">
-        <style>
-            .swiper-container {
-                height: 400px;
-            }
-            .swiper-slide {
-                position: relative;
-                object-fit: contain;
-                background-color: #888888;
-            }
-            .swiper-slide span, .swiper-slide a {
-                position: absolute;
-                top: 75px;
-                left: 5%;
-                text-shadow: 0px 0px 10px #000000;
-            }
-            .title {
-                font-size: 50px;
-                letter-spacing: 15px;
-            }
-            .titleunder {
-                font-size: 20px;
-                margin-left: 30px;
-            }
-            .news {
-                position: relative;
-                overflow: hidden;
-            }
-            .news img {
-                object-fit: cover;
-                z-index: -2;
-            }
-            .news > .textonimage {
-                left: 10%;
-            }
-            .project {
-                margin-top: 50px;
-            }
-            .projecttext {
-                font-size: 20px;
-            }
-            .latest {
-                margin-top: 50px;
-            }
-            .projecttexts {
-                display: flex;
-                justify-content: space-between;
-            }
-            .disturbes, .support, .comingsoon {
-                text-align: center;
-            }
-            .support, .comingsoon {
-                margin-top: 30px;
-            }
-            .title1 {
-                display: inline-block;
-                margin-bottom: 10px;
-            }
-            .title1left {
-                font-size: 30px;
-            }
-            .title1right {
-                font-size: 20px;
-                margin-left: 10px;
-            }
-            @media screen and (max-width:765px) {
-                .projecttexts {
-                    display: block;
-                    margin: 0 auto;
-                }
-                .swiper-slide img {
-                    object-fit: contain;
-                }
-            }
-        </style>
-    </head>
-    <body>
-        <div class="header">
-            <?php include('header.php') ?>
-        </div>
-        <div class="content">
-            <div class="sample01">
-                <div class="swiper-container">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="01.png" class="swiper-slide-img" alt="" width="100%" height="auto">
-                            <span style="font-size:20px;">Disturbes 製品群</span>
-                            <span style="margin-top:50px;">さよなら、迷惑ソフト。</span>
-                            <a href="./projects/disturbes/" class="animebutton" style="top: 150px;">ダウンロードはこちら</a>
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="02.jpg" class="swiper-slide-img" alt="" width="100%" height="auto">
-                            <span style="font-size:20px;">Trownsoft は Uniant になりました</span>
-                            <span style="margin-top:50px;">新しい環境、変わらない信念。</span>
-                            <a href="https://trownsoft-to-uniant.uniant.net/" class="animebutton" style="top: 150px;">詳しく</a>
-                        </div>
+<head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Noto+Sans+JP:wght@400&display=swap" rel="stylesheet">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="description" content="New Future, New Technology. Uniant は、あまねく人、そして社会の役に立つソフトウェアを開発し、社会に貢献させていただくことを使命として活動しています。">
+	<link rel="icon" href="/favicon.png">
+	<title>Uniant - New Future, New Technology.</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Noto+Sans+JP:wght@300;500&display=swap" rel="stylesheet">
+	<link href="./assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="./assets/css/page/index.css" rel="stylesheet" type="text/css" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@UniantJapan">
+	<meta property="og:url" content="https://uniant.net/">
+	<meta property="og:title" content="Uniant - New Future, New Technology.">
+	<meta property="og:description" content="New Future, New Technology. Uniant は、あまねく人、そして社会の役に立つソフトウェアを開発し、社会に貢献させていただくことを使命として活動しています。">
+	<meta property="og:image" content="https://uniant.net/card.png">
+</head>
+<body>
+	<?php include('./header.php') ?>
+		<main>
+			<div class="topright">
+				<img src="./assets/image/welcome.svg" alt="">
+			</div>
+			<div class="welcome">
+			<div class="content">
+			<div class="main_txt">
+					<span>New Future, <br>New Technology.</span>
+				</div>
+				<hr class="title-bar">
+				<span class="subtitle">新しい時代、新しい技術。</span>
+			</div>
+		</div>
+		<div class="scroll-down">
+			<img src="assets/image/scrolldown.svg">
+		</div>
+		<div class="about-us">
+			<div class="after-border">ABOUT US</div>
+			<span>私たちについて</span>
+		</div>
+			<div class="descriptions">
+				<div class="box">
+                    <div class="boxright boximgmobile">
+                        <img src="./assets/image/aboutus.svg" alt="">
                     </div>
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-button-prev"></div>
-                    <div class="swiper-button-next"></div>
-                </div>
-            </div>
-            <div class="project">
-                <div class="title1">
-                    <span class="title1left">プロジェクト</span><span class="title1right">|  Projects</span>
-                </div>
-                <div class="projecttexts">
-                    <div class="disturbes">
-                        <img src="disturbes.jpg" alt="disturbes" width="200px" height="200px">
-                        <p class="projecttext">Disturbes 製品群</p>
-                        <span>さよなら、迷惑ソフト。</span>
-                        <br>
-                        <a href="#" class="animebutton">詳細はこちら</a>
-                    </div>
-                    <div class="support">
-                        <img src="support.png" alt="support" width="200px" height="200px">
-                        <p class="projecttext">Uniant Support</p>
-                        <span>Uniant に関するお問い合わせ</span>
-                        <br>
-                        <a href="#" class="animebutton">今すぐ見る</a>
-                    </div>
-                    <div class="comingsoon">
-                        <img src="comingsoon1.jpg" alt="coming soon..." width="200px" height="200px">
-                        <p class="projecttext">Coming Soon...</p>
-                        <br>
-                    </div>
-                </div>
-            </div>
-            <div class="latest">
-                <div class="title1">
-                    <span class="title1left">ニュース</span><span class="title1right">|  News</span>
-                </div>
-            </div>
-        </div>
-        <div class="news"><img src="news.jpg" alt="" width="100%" height="500px">
-            <span class="textonimage" style="font-size:30px;">Latest News</span>
-            <span class="textonimage" style="top:175px;">最新のニュースとグループの情報</span>
-            <a href="./news/" class="textonimage animebutton" style="top:250px;">もっと見る</a>
-        </div>
-        <div class="footer">
-            <?php include('footer.php') ?>
-        </div>
-        <script src="swiper-bundle.min.js"></script>
-        <script>
-            var mySwiper = new Swiper('.swiper-container', {
-                loop: true,
-                autoplay: {
-                    delay: 5000,
-                },
-                pagination: {
-                    el: '.swiper-pagination',
-                },
-                navigation: {
-                    nextEl: '.swiper-button-next',
-                    prevEl: '.swiper-button-prev',
-                },
-                scrollbar: {
-                    el: '.swiper-scrollbar',
-                },
-            });
-        </script>
-        <script src="script.js" type="text/javascript"></script>
-    </body>
+					<div class="boxleft">
+						<div class="texts">
+							<span class="engtitle">About</span>
+							<h1 class="title">みんなで作ろう。</h1>
+							<div class="desc">
+								<span>Uniant では、グループのメンバーと一緒に<br class="responsivebr">様々なアプリケーションなどを作ることができます。<br>力を合わせて、いいものを生み出していきましょう。</span>
+							</div>
+							<div class="button">
+								<a href="./about/">Uniant について</a>
+							</div>
+						</div>
+					</div>
+					<div class="boxright boximgpc">
+						<img src="./assets/image/aboutus.svg" alt="">
+					</div>
+				</div>
+				<div class="box">
+					<div class="boxleft">
+						<img src="./assets/image/project.svg" alt="">
+					</div>
+					<div class="boxright">
+						<div class="texts">
+							<span class="engtitle">Projects</span>
+                            <h1 class="title">プロジェクト</h1>
+							<div class="desc">
+								<span>私たちの様々なプロジェクトをご覧いただけます。</span>
+							</div>
+							<div class="button">
+								<a href="./projects/">一覧を見る</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="box">
+                    <div class="boxright boximgmobile">
+						<img src="./assets/image/contact.svg" alt="">
+					</div>
+					<div class="boxleft">
+						<div class="texts">
+							<span class="engtitle">Contact</span>
+                            <h1 class="title">お問い合わせ</h1>
+							<div class="desc">
+								<span>お問い合わせはメールや Twitter でお受けしております。<br>詳しくはこちらをご覧ください。</span>
+							</div>
+							<div class="button">
+								<a href="https://support.uniant.net/">お問い合わせ</a>
+							</div>
+						</div>
+					</div>
+					<div class="boxright boximgpc">
+						<img src="./assets/image/contact.svg" alt="">
+					</div>
+				</div>
+				<div class="box">
+					<div class="boxleft">
+						<img src="./assets/image/joinus.svg" alt="">
+					</div>
+					<div class="boxright">
+						<div class="texts">
+							<span class="engtitle">Join</span>
+                            <h1 class="title">参加する</h1>
+							<div class="desc">
+								<span>Uniant に参加を希望される方は、<br>こちらからご応募ください。</span>
+							</div>
+							<div class="button">
+								<a href="./join/">参加について</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+		<div class="footer">
+            <?php include('./footer.php') ?>
+		</div>
+    <script src="./assets/js/script.js" type="text/javascript"></script>
+  </body>
 </html>

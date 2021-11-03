@@ -1,26 +1,30 @@
 <header>
-    <a href="/en/"><img src="/uniant.png" class="headerimg" alt="Uniant"></a>
-    <div id="wrapper">
-        <p class="hbutton">
-            <span></span>
-            <span></span>
-            <span></span>
-        </p>
+	<a href="/en/"><img src="https://uniant.net/assets/image/uniantlogo.png" alt="" height="30px"></a>
+    <div class="menunormal">
         <nav>
-            <ul class="headermenu">
-                <div>
-                    <li><a href="/projects/" class="under">Projects</a></li>
-                    <li><a href="/news/" class="under">News</a></li>
-                    <li><a href="https://blog.uniant.net/" class="under">Blog (Japanese Only)</a></li>
-                    <li><a href="https://support.uniant.net/" class="under">Support</a></li>
-                </div>
+            <ul>
+                <li><a href="https://uniant.net/en/about/">About</a></li>
+                <li><a href="https://uniant.net/en/news/">News</a></li>
+                <li><a href="https://blog.uniant.net/">Blog (Japanese)</a></li>
+                <li><a href="https://support.uniant.net/">Contact (Japanese)</a></li>
             </ul>
         </nav>
-        <div class="headersearch">
-            <form action="/search/">
-                <input class="searchbox" id="search-input" placeholder="Search uniant.net" type="text" name="search">
-                <input class="searchboxclick" id="search-buttom" type="submit" value="Search" method="get">
-            </form>
+    </div>
+    <div class="menuresponsive">
+        <div class="menulines" id="hamburgerbutton" onclick="hamburgerButtonClick()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="responsivemenucontent">
+            <nav>
+                <ul>
+                    <li><a href="https://uniant.net/en/about/">About</a></li>
+                    <li><a href="https://uniant.net/en/news/">News</a></li>
+                    <li><a href="https://blog.uniant.net/">Blog (Japanese)</a></li>
+                    <li><a href="https://support.uniant.net/">Contact (Japanese)</a></li>
+                </ul>
+            </nav>
         </div>
     </div>
 </header>
